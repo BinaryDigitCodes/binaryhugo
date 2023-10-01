@@ -35,8 +35,8 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "tags"
-    name = " Tags"
-    url = "/tags/blog"
+    name = " tags"
+    url = "/tags"
     pre = "<span data-feather='tag'></span>"
     weight = 3
 
