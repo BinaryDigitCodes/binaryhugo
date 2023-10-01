@@ -4,21 +4,13 @@ image: "/images/social.png"
 type: "page"
 ---
 
-
-This is a [now](https://nownownow.com/about) and what I'm focused on at this point in my life.
-
+### A /now page is a great way to share what’s going on in your life [now](https://nownownow.com/about).
 
 I love to be creative in my personal time (code, art, photography), support open source, and love all things technical, so right now everything intersects well. 
 
-## Feeling
+## Doing
 
-A lovely human named [Keenan](https://mstdn.games/@keenan) on Mastodon posted the question "What is currently giving meaning to your life?” 
-
-I responded as quickly as I could with no hesitation: “Rediscovering things that bring me joy, such a photography, music, light coding/making things pretty. I need more beauty in my life so I want to create it”. 
-
-## Working
-- At a digital media publisher where I work with editorial staff and work with a developer team to keep our websites afloat. 
-
+- Rediscovering things that bring me joy, such a photography, music, light coding/making things pretty. I need more beauty in my life so I want to create it.
 
 ## Playing
 
@@ -29,8 +21,12 @@ I responded as quickly as I could with no hesitation: “Rediscovering things th
 
 (I swing from cozy to volent depending on my mood 🤣)
 
+## Working
+
+- At a digital media publisher where I work with editorial staff and work with a developer team to keep our websites afloat. 
+
 ## Living
+
 - In Detroit with my boyfriend and 2 pups 
 
-
-##### Last updated Oct 2023
+##### *Last updated Oct 2023*

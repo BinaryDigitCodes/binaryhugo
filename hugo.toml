@@ -83,7 +83,7 @@ enableRobotsTXT = true
     ]
 
   # Accent color is displayed when you hover over <a> tags
-  accentColor = "#bd93f9"
+  accentColor = "#ffb86c"
 
   # You can use this to inject any HTML in the <head> tag.
   # Ideal usecase for this is to import custom js/css or add your analytics snippet

@@ -9,6 +9,14 @@ h2 {
     color: #8be9fd;
 }
 
-hr {
+h3 {
     color: #f1fa8c;
+}
+
+hr {
+    color: #6272a4;
+}
+
+.post-title {
+    color: #bd93f9;
 }

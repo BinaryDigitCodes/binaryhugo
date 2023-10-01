@@ -1,5 +1,5 @@
 ---
-title: "Hello!"
+title: "A new site"
 date: 2023-09-30
 description: "A blog post"
 image: "/images/social.png"
@@ -7,7 +7,7 @@ type: "post"
 tags: ["updates"]
 ---
 
-# Stay Tuned!
+# Update
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
