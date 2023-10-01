@@ -6,14 +6,14 @@
     <description>Recent content on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello!</title>
-      <link>/posts/hello/</link>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <title>redesign</title>
+      <link>/posts/redesign/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/hello/</guid>
-      <description>Stay Tuned! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/posts/redesign/</guid>
+      <description>I probably won&amp;rsquo;t end up using the blog portion of Hugo since I already have a micro blog and longer blog, but I might post when I make any manjor changes as a change log of sorts.</description>
     </item>
     
     <item>
@@ -23,7 +23,17 @@
       
       <guid>/index-about/</guid>
       <description>Hi I&amp;rsquo;m B. By day I&amp;rsquo;m a tech director for a digital media company and in my free time I like to game, mix music, take photos, tinker with code and travel when I can.
-I try to write frequently on my micro blog and longer stories on my Wordpress blog. I am getting back into streaming games and my music DJ mixes. You can see me live on Twitch or watch offline videos on either Makertube (part of the fediverse) or YouTube!</description>
+I try to write frequently on my micro blog and longer stories on the &amp;ldquo;cafe&amp;rdquo;, my Wordpress blog. I am getting back into streaming games and my music DJ mixes. You can see me live on Twitch or watch offline videos on either Makertube (part of the fediverse) or YouTube!</description>
+    </item>
+    
+    <item>
+      <title>/Uses</title>
+      <link>/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/uses/</guid>
+      <description>All of the gear and software that I use everyday.
+Hardware Computer Software Development Services Analog Fashion </description>
     </item>
     
     <item>
@@ -32,19 +42,8 @@ I try to write frequently on my micro blog and longer stories on my Wordpress bl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/now/</guid>
-      <description>A /now page is a great way to share what’s going on in your life now.
-I love to be creative in my personal time (code, art, photography), support open source, and love all things technical, so right now everything intersects well.
-Feeling Rediscovering things that bring me joy, such a photography, music, light coding/making things pretty. I need more beauty in my life so I want to create it. Playing Street Fighter 6 Mortal Kombat 1 Animal Crossing New Horizons Stardew Valley (I swing from cozy to volent depending on my mood 🤣)</description>
-    </item>
-    
-    <item>
-      <title>Website Redesign</title>
-      <link>/projects/webdev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/webdev/</guid>
-      <description>Website Redesign I&amp;rsquo;m redoing my website with Hugo and loving it so far. A while back my brain didn&amp;rsquo;t click well with static site generators, but now I&amp;rsquo;m loving it.
-I&amp;rsquo;m using the Gokarna theme which is simple yet super customizable.</description>
+      <description>A /now page is a great way to share what’s going on in your life now. I love to be creative in my personal time (code, art, photography), support open source, and love all things technical, so right now everything intersects well.
+Doing Rediscovering things that bring me joy, such a photography, music, light coding/making things pretty. I need more beauty in my life so I want to create it. Playing Street Fighter 6 Mortal Kombat 1 Animal Crossing New Horizons Stardew Valley (I swing from cozy to volent depending on my mood 🤣)</description>
     </item>
     
   </channel>

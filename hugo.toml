@@ -40,17 +40,12 @@ enableRobotsTXT = true
     pre = "<span data-feather='clock'></span>"
     weight = 3
         
-[[menu.main]]
-    identifier = "ko-fi"
-    url = "https://ko-fi.com/binarydigit"
-    pre = "<img class='svg-inject' src='/svg/icons/kofi.svg' />"
-    weight = 4
 
 [[menu.main]]
     identifier = " rss"
     url = "/index.xml"
     pre = "<span data-feather='rss'></span>"
-    weight = 5
+    weight = 4
 
     #  [[menu.main]]
 #    identifier = "tags"

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on BinaryDigit</title>
-    <link>https://binarydigit.io/tags/blog/</link>
+    <link>/tags/blog/</link>
     <description>Recent content in blog on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello, world!</title>
-      <link>https://binarydigit.io/posts/hello/</link>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <title>redesign</title>
+      <link>/posts/redesign/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binarydigit.io/posts/hello/</guid>
-      <description>Hello World! This is my blog.</description>
+      <guid>/posts/redesign/</guid>
+      <description>I probably won&amp;rsquo;t end up using the blog portion of Hugo since I already have a micro blog and longer blog, but I might post when I make any manjor changes as a change log of sorts.</description>
     </item>
     
   </channel>

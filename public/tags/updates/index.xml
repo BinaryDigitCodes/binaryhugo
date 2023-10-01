@@ -6,14 +6,14 @@
     <description>Recent content in updates on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello!</title>
-      <link>/posts/hello/</link>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <title>redesign</title>
+      <link>/posts/redesign/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/hello/</guid>
-      <description>Stay Tuned! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/posts/redesign/</guid>
+      <description>I probably won&amp;rsquo;t end up using the blog portion of Hugo since I already have a micro blog and longer blog, but I might post when I make any manjor changes as a change log of sorts.</description>
     </item>
     
   </channel>
