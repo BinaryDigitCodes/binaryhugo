@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Projects on BinaryDigit</title>
+    <link>/projects/</link>
+    <description>Recent content in Current Projects on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Redesign</title>
+      <link>/projects/webdev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/webdev/</guid>
+      <description>Website Redesign I&amp;rsquo;m redoing my website with Hugo and loving it so far. A while back my brain didn&amp;rsquo;t click well with static site generators, but now I&amp;rsquo;m loving it.
+I&amp;rsquo;m using the Gokarna theme which is simple yet super customizable.</description>
+    </item>
+    
+  </channel>
+</rss>
