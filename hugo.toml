@@ -1,8 +1,7 @@
-baseURL = 'bdhugo.netlify.app/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'BinaryDigit'
 theme = 'gokarna'
-
 
 # Automatically generate robots.txt
 enableRobotsTXT = true

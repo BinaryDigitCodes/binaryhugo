@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>bdhugo.netlify.app/index-about/</loc>
+    <loc>/index-about/</loc>
   </url><url>
-    <loc>bdhugo.netlify.app/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>bdhugo.netlify.app/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>bdhugo.netlify.app/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>bdhugo.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
