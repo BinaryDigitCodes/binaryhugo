@@ -6,10 +6,10 @@ theme = 'gokarna'
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
-    # feather-icons: https://feathericons.com/
+  # feather-icons: https://feathericons.com/
 
 [menu]
-  [[menu.main]]
+  # [[menu.main]]
     # Unique identifier for a menu item
   # identifier = "posts"
   # url = "/posts/"
@@ -47,11 +47,10 @@ enableRobotsTXT = true
     weight = 4
 
 [[menu.main]]
-    identifier = "rss"
+    identifier = " rss"
     url = "/index.xml"
     pre = "<span data-feather='rss'></span>"
     weight = 5
-
 
     #  [[menu.main]]
 #    identifier = "tags"
@@ -84,14 +83,21 @@ enableRobotsTXT = true
     ]
 
   # Accent color is displayed when you hover over <a> tags
-  accentColor = "#FF4D4D"
+  accentColor = "#bd93f9"
 
   # You can use this to inject any HTML in the <head> tag.
   # Ideal usecase for this is to import custom js/css or add your analytics snippet
 
   customHeadHTML = '''
     <link rel="stylesheet" type="text/css" href="../css/custom.css">
+    <a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
+    <a rel="me" href="https://social.lol/@binarydigit"></a>
   '''
+
+  customFooterHTML = '''
+    <small>&copy BinaryDigit 2023</small>
+  '''
+
   # Keywords relevant for SEO
   metaKeywords = ["blog", "binarydigit", "hugo"]
 
