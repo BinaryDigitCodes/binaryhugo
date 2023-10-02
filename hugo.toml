@@ -69,8 +69,7 @@ enableRobotsTXT = true
   # Social Icons on homepage
   socialIcons = [
       {name = "mastodon", url = "https://mstdn.games/@BinaryDigit"},
-      {name = "microdotblog", url = "https://micro.binarydigit.io"},
-      {name = "wordpress", url = "https://binarydigit.cafe"},
+      {name = "microdotblog", url = "https://blog.binarydigit.io"},
       {name = "soundcloud", url = "https://soundcloud.com/binarydigitio"},
       {name = "youtube", url = "https://youtube.com/BinaryDigit"},
       {name = "peertube", url = "https://makertube.net/a/BinaryDigit"},
