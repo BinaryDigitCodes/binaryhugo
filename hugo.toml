@@ -26,7 +26,7 @@ enableRobotsTXT = true
     # Weights are used to determine the ordering
   # weight = 1
 
-  [[menu.main]]
+[[menu.main]]
     identifier = "pages"
     name = " Projects"
     url = "/projects/"

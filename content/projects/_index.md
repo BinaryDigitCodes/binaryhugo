@@ -19,3 +19,11 @@ I'm using the [Gokarna](https://gokarna-hugo.netlify.app/) theme which is simple
 [BinaryDigit.rocks](https://binarydigit.rocks) A place to upload my mixes with song lists as a back up to SoundCloud and YouTube/PeerTube. I'll probably move it to this domain eventually but since I still have Wordpress hosting I am using a nice media wrapper plugin and WP theme.
 
 ![BinaryDigit.rocks screenshot](/images/bdrocks-screenshot.png)
+
+---
+
+## Digital Cafe/Garden
+
+I'll be keeping my cute .cafe domain and thought why not try to make a personal wiki, or as some people call it, a digital garden. Mine will be a "cafe" of course.
+
+![BinaryDigit.cafe screenshot](/images/binarydigit-cafe-screenshot.png)

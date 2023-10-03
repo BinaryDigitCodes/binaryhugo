@@ -8,4 +8,3 @@ tags: ["updates"]
 ---
 
 I probably won't end up using the blog portion of Hugo since I already have a blog, but I call it "site updates".
-

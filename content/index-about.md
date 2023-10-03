@@ -1,3 +1,3 @@
 Hi I'm B. By day I'm a tech director for a digital media company and in my free time I like to game, mix music, take photos, tinker with code and travel when I can. 
 
-I try to write frequently on my [blog](https://blog.binarydigit.io), and am getting back into streaming games and my music DJ mixes. You can see me live on Twitch or watch offline videos on either Makertube (part of the fediverse) or YouTube. This site will be changed and updated frequently for the next few months!
+I try to write frequently on my [blog](https://blog.binarydigit.io), and am getting back into streaming games and my music DJ mixes. You can see me live on Twitch or watch offline videos on either Makertube (part of the fediverse) or YouTube. I'm doing a [digital overhaul](/projects/) for the next few months!
