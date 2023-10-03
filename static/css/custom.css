@@ -13,6 +13,10 @@ h3 {
     color: #8be9fd;
 }
 
+h4 {
+    color: #ff5555;
+}
+
 hr {
     color: #6272a4;
 }
@@ -20,3 +24,20 @@ hr {
 .post-title {
     color: #bd93f9;
 }
+
+#status {
+    display: block;
+    text-align: center;
+}
+
+/*#statuscafe {
+    display: block;
+    text-align: center;
+}
+#statuscafe-username {
+    margin-bottom: .2em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}*/
+

@@ -61,7 +61,7 @@ enableRobotsTXT = true
   avatarURL = "images/avatar.png"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-xs"
+  avatarSize = "size-l"
 
   # Description to display on homepage
   description = "tech, gaming, photography, streaming, music"
@@ -73,6 +73,7 @@ enableRobotsTXT = true
       {name = "soundcloud", url = "https://soundcloud.com/binarydigitio"},
       {name = "youtube", url = "https://youtube.com/BinaryDigit"},
       {name = "peertube", url = "https://makertube.net/a/BinaryDigit"},
+      {name = "instagram", url = "https://instagram.com/binarydigit.io"},
       {name = "twitch", url = "https://www.twitch.tv/BinaryDigit"},      
     ]
 
