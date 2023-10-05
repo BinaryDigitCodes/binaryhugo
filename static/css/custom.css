@@ -1,6 +1,5 @@
-* {
-    background-image: url("https://cdn.some.pics/binarydigit/64bb3783b78aa.png");
-/*    --dark-primary-color: 40, 42, 54;*/
+:root {
+    --dark-primary-color: 40, 42, 54;
 }
 
 @media only screen and (max-width:820px) {
