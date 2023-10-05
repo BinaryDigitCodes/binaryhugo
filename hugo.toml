@@ -61,7 +61,7 @@ enableRobotsTXT = true
   avatarURL = "images/avatar.png"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-l"
+  avatarSize = "size-xs"
 
   # Description to display on homepage
   description = "tech, gaming, photography, streaming, music"
@@ -69,16 +69,16 @@ enableRobotsTXT = true
   # Social Icons on homepage
   socialIcons = [
       {name = "mastodon", url = "https://mstdn.games/@BinaryDigit"},
+      {name = "twitch", url = "https://www.twitch.tv/BinaryDigit"}, 
       {name = "microdotblog", url = "https://blog.binarydigit.io"},
       {name = "soundcloud", url = "https://soundcloud.com/binarydigitio"},
       {name = "youtube", url = "https://youtube.com/BinaryDigit"},
       {name = "peertube", url = "https://makertube.net/a/BinaryDigit"},
-      {name = "instagram", url = "https://instagram.com/binarydigit.io"},
-      {name = "twitch", url = "https://www.twitch.tv/BinaryDigit"},      
+      {name = "email", url = "mailto:hello@binarydigit.io?subject=Contact"}
     ]
 
   # Accent color is displayed when you hover over <a> tags
-  accentColor = "#ffb86c"
+  accentColor = "#8be9fd"
 
   # You can use this to inject any HTML in the <head> tag.
   # Ideal usecase for this is to import custom js/css or add your analytics snippet
@@ -101,5 +101,5 @@ enableRobotsTXT = true
 
 [services]
   [services.rss]
-    limit = 20
+    limit = 5
 

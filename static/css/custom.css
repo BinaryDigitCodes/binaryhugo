@@ -1,5 +1,10 @@
-:root {
-    --dark-primary-color: 40, 42, 54;
+* {
+    background-image: url("https://cdn.some.pics/binarydigit/64bb3783b78aa.png");
+/*    --dark-primary-color: 40, 42, 54;*/
+}
+
+.markdown-content {
+    width: 700px;
 }
 
 h1 {
@@ -17,6 +22,11 @@ h4 {
     color: #ff5555;
 }
 
+a:link,
+a:visited {
+    text-decoration-color: #be4bdb;
+}
+
 hr {
     color: #6272a4;
 }
@@ -25,10 +35,15 @@ hr {
     color: #bd93f9;
 }
 
-#status {
-    display: block;
-    text-align: center;
+#RVHFEED_class, ul {
+    list-style-type: none;
+    padding-left: 0;
 }
+
+hr {
+    border-bottom: solid 1px #6272a4;
+}
+
 
 /*#statuscafe {
     display: block;
