@@ -43,7 +43,8 @@ enableRobotsTXT = true
 
 [[menu.main]]
     identifier = " rss"
-    url = "/index.xml"
+    name = " Blog RSS"
+    url = "https://blog.binarydigit.io/feed.xml"
     pre = "<span data-feather='rss'></span>"
     weight = 4
 
@@ -69,12 +70,13 @@ enableRobotsTXT = true
   # Social Icons on homepage
   socialIcons = [
       {name = "mastodon", url = "https://mstdn.games/@BinaryDigit"},
-      {name = "twitch", url = "https://www.twitch.tv/BinaryDigit"}, 
       {name = "microdotblog", url = "https://blog.binarydigit.io"},
+      {name = "twitch", url = "https://www.twitch.tv/BinaryDigit"}, 
       {name = "soundcloud", url = "https://soundcloud.com/binarydigitio"},
       {name = "youtube", url = "https://youtube.com/BinaryDigit"},
       {name = "peertube", url = "https://makertube.net/a/BinaryDigit"},
-      {name = "email", url = "mailto:hello@binarydigit.io?subject=Contact"}
+      {name = "kofi", url = "https://ko-fi.com/binarydigit/"},
+      {name = "email", url = "mailto:hello[at]binarydigit.io?subject=Hello from the website!"},
     ]
 
   # Accent color is displayed when you hover over <a> tags
