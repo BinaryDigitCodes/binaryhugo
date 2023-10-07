@@ -40,6 +40,12 @@ hr {
 hr {
     border-bottom: solid 1px #6272a4;
 }
+#status {
+    width: max-content;
+}
+#statuslol_container {
+    padding: 2em;
+}
 #prami {
     width: 3.5em;
     float: right;
