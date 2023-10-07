@@ -2,56 +2,54 @@
     --dark-primary-color: 40, 42, 54;
     --content-width: 850px;
 }
-
 @media only screen and (max-width:820px) {
     .markdown-content {
         width: auto;
     }
 }
-
 h1 {
     color: #ff79c6;
 }
 h2 {
-    color: #8be9fd;
+   color: #8be9fd;
 }
-
 h3 {
     color: #8be9fd;
 }
-
 h4 {
     color: #ff5555;
 }
-
 a:link,
 a:visited {
     text-decoration-color: #be4bdb;
 }
-
 hr {
     color: #6272a4;
 }
-
 .post-title {
     color: #bd93f9;
 }
-
 #RVHFEED_class, ul {
 
     list-style-type: none;
     padding-left: 0;
 }
-
 #RVHFEED_class, li {
     padding-top: 0.2em;
 }
-
 hr {
     border-bottom: solid 1px #6272a4;
 }
-
-
+#status {
+    width: max-content;
+}
+#statuslol_container {
+    padding: 2em;
+}
+#prami {
+    width: 3.5em;
+    float: right;
+}
 /*#statuscafe {
     display: block;
     text-align: center;

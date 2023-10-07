@@ -38,13 +38,24 @@ Hardware Computer Software Development Services Analog Fashion </description>
     </item>
     
     <item>
-      <title>My Now Page</title>
-      <link>/now/</link>
+      <title>Current Projects</title>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/now/</guid>
-      <description>A /now page is a great way to share what’s going on in your life now. I love to be creative in my personal time (code, art, photography), support open source, and love all things technical, so right now everything intersects well.
-Doing Rediscovering things that bring me joy, such a photography, music, light coding/making things pretty. I need more beauty in my life so I want to create it. Playing Street Fighter 6 Mortal Kombat 1 Animal Crossing New Horizons Stardew Valley (I swing from cozy to volent depending on my mood 🤣)</description>
+      <guid>/projects/</guid>
+      <description>Website redesign I&amp;rsquo;m redoing my website with Hugo and loving it so far. A while back my brain didn&amp;rsquo;t click well with static site generators, but now I&amp;rsquo;m loving it.
+I&amp;rsquo;m using the Gokarna theme which is simple yet super customizable.
+Music Site BinaryDigit.rocks A place to upload my mixes with song lists as a back up to SoundCloud and YouTube/PeerTube. I&amp;rsquo;ll probably move it to this domain eventually but since I still have Wordpress hosting I am using a nice media wrapper plugin and WP theme.</description>
+    </item>
+    
+    <item>
+      <title>Music Mixes</title>
+      <link>/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music/</guid>
+      <description>Video I haven&amp;rsquo;t uploaded in a while, but here are my current uploads to PeerTube, which is a fediverse video upload site similar to YouTube. You can watch my playlist there as well!
+Audio I also upload my music to SoundCloud if you want to listen to some mixes I&amp;rsquo;ve streamed online. I&amp;rsquo;ve been working on a seperate website for uploading, but might just merge the efforts into my one website here.</description>
     </item>
     
   </channel>
