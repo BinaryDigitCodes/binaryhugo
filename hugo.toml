@@ -26,39 +26,41 @@ enableRobotsTXT = true
     # Weights are used to determine the ordering
   # weight = 1
 
-[[menu.main]]
-    identifier = "now"
-    name = " Now"
-    url = "/now/"
-    pre = "<span data-feather='clock'></span>"
-    weight = 1
-
-[[menu.main]]
-    identifier = "pages"
-    name = " Projects"
-    url = "/projects/"
-    pre = "<span data-feather='terminal'></span>"
-    weight = 2
-        
-[[menu.main]]
-    identifier = "music"
-    name = " Music"
-    url = "/music/"
-    pre = "<span data-feather='music'></span>"
-    weight = 3
 
 [[menu.main]]
     identifier = "blog"
     name = " Blog"
     url = "https://blog.binarydigit.io/"
     pre = "<span data-feather='book'></span>"
+    weight = 1
+
+[[menu.main]]
+    identifier = "music"
+    name = " Music"
+    url = "/music/"
+    pre = "<span data-feather='music'></span>"
+    weight = 2
+
+[[menu.main]]
+    identifier = "pages"
+    name = " Projects"
+    url = "/projects/"
+    pre = "<span data-feather='terminal'></span>"
+    weight = 3
+
+[[menu.main]]
+    identifier = "now"
+    name = " Now"
+    url = "/now/"
+    pre = "<span data-feather='clock'></span>"
     weight = 4
 
 [[menu.main]]
     identifier = " rss"
-    name = " RSS"
+    # name = " RSS"
     url = "https://binarydigit.io/index.xml"
     pre = "<span data-feather='rss'></span>"
+    weight = 5
 
     #  [[menu.main]]
 #    identifier = "tags"

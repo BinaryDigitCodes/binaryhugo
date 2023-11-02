@@ -4,19 +4,11 @@ image: "/images/social.png"
 type: "page"
 ---
 
-All of the gear and software that I use everyday.
+## In progress
 
-## Hardware
+A list of all of the gear and software that I use.
 
-### Computer
-
-## Software
-
-### Development
-
-## Services
-
-## Analog
-
-## Fashion
-
+Hardware
+Software
+Services
+Music
