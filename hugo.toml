@@ -89,6 +89,7 @@ enableRobotsTXT = true
       {name = "soundcloud", url = "https://soundcloud.com/binarydigitio"},
       {name = "youtube", url = "https://youtube.com/BinaryDigit"},
       {name = "peertube", url = "https://makertube.net/a/BinaryDigit"},
+      {name = "prami", url = "https://binarydigit.omg.lol/"},
       {name = "kofi", url = "https://ko-fi.com/binarydigit/"},
       {name = "email", url = "mailto:hello[at]binarydigit.io?subject=Hello from the website!"},
     ]
